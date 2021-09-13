@@ -1,5 +1,5 @@
 # Count-Bits
-my js solution using Bitmasking for Counting Bits
+my js solution using Bitmasking for the Leetcode Challenge "Counting Bits"
 
 
 
