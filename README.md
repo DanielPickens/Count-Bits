@@ -1,4 +1,4 @@
-# Count-Bits---80-faster-than-all-solutions-on-Leetcode
+# Count-Bits
 my js solution using Bitmasking for Counting Bits
 
 
